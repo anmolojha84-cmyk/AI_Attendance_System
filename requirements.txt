@@ -1,7 +1,10 @@
 streamlit
-pandas
+opencv-python-headless
+face_recognition
 numpy
 Pillow
-plotly
-google-generativeai
 python-dotenv
+google-generativeai
+google-genai
+qrcode
+reportlab
